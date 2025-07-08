@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+#message-container {
+  margin-top: 20px;
+  padding-left: 20px;
+}
